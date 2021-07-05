@@ -1,4 +1,4 @@
-# README: Documentation
+# Documentation
 
 General documentation of the work done towards the Astrometric Microlensing with GAIA Project under Prof. Vikram Rentala in the Department of Physics at IIT Bombay.
 
