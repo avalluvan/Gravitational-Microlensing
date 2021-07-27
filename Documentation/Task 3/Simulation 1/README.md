@@ -1,6 +1,6 @@
 # Simulation 1
 
-This directory consists of csv files of distribution of lenses in the lens plane under a $z_S = 2$ constraint over a mass range from $1e-16$ to $1e-11$ in equal logarithmic steps `M = np.logspace(-16, -11, 50)` for a radiometric resolution $\epsilon = 0.1$. 
+This directory consists of csv files of (detectable) distribution of lenses in the lens plane under a $z_S = 2$ constraint over a mass range from $1e-16$ to $1e-11$ in equal logarithmic steps `M = np.logspace(-16, -11, 50)` for a radiometric resolution $\epsilon = 0.1$. 
 The visual image can be viewed by running the following command
 ```
 # Create PIL image
