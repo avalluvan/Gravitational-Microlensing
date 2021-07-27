@@ -4,7 +4,7 @@ This directory consists of csv files of distribution of lenses in the lens plane
 The visual image can be viewed by running the following command
 ```
 # Create PIL image
-img = Image.fromarray(np.uint8(np.transpose(arr_lens_plane_pos[49]) * 255) , 'L')
+img = Image.fromarray(np.uint8(np.transpose(arr_lens_plane_pos[k]) * 255) , 'L')    # where k is the image number denoting the mass of the lens
 img.show()
 ```
 It should be noted that the scales are not equal for different images, and more importantly, the pixel_length_x:pixel_length_y $\neq$ 1:1 (It is about 100:1, i.e., the image is disproportionately stretched in the y-direction)
