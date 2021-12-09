@@ -1,4 +1,4 @@
-# Astrometric Microlensing with GAIA
+# Gravitational Microlensing
 
 General documentation of the work done in Microlensing Group under Prof. Vikram Rentala in the Department of Physics at IIT Bombay.
 
