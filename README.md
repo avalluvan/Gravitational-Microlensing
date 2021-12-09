@@ -11,5 +11,5 @@ General documentation of the work done in Microlensing Group under Prof. Vikram 
  
 ### Quick Access
 
- - "GRB lensing parallax: Closing primordial black hole dark matter mass window" [reference](https://arxiv.org/abs/1908.00078)
- -  in "Femtolensing by Dark Matter Revisited" [reference](https://arxiv.org/abs/1807.11495)
+ - GRB lensing parallax: Closing primordial black hole dark matter mass window [link](https://arxiv.org/abs/1908.00078)
+ -  Femtolensing by Dark Matter Revisited [link](https://arxiv.org/abs/1807.11495)
