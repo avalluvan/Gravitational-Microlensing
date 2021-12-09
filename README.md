@@ -5,8 +5,8 @@ General documentation of the work done in Microlensing Group under Prof. Vikram 
 ### Task Description:
 
  - Task 1: Overview on gravitational lensing
- - Task 2: Study of astrometric microlensing and modelling [lensing parallax](/Documentation/Task%203/GRB_Lensing_Parallax_4.ipynb)
- - Task 3: Simulation of [femtolensing](/Documentation/Task%204/Femtolensing_by_Dark_Matter.ipynb) and analysing wave effects
+ - Task 2: Study of astrometric microlensing and modelling [lensing parallax](/Task%202/GRB_Lensing_Parallax_4.ipynb)
+ - Task 3: Simulation of [femtolensing](/Task%203/Femtolensing_by_Dark_Matter.ipynb) and analysing wave effects
  - Task 4: [Literature review](https://github.com/hims002/LensingGroup) and formulating some ideas
  
 ### Quick Access
